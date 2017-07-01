@@ -84,6 +84,7 @@
   
  [!code-csharp[Classic WebData DataTable Example#1](~/samples/snippets/csharp/VS_Snippets_ADO.NET/Classic WebData DataTable Example/CS/source.cs#1)]
  [!code-vb[Classic WebData DataTable Example#1](~/samples/snippets/visualbasic/VS_Snippets_ADO.NET/Classic WebData DataTable Example/VB/source.vb#1)]  
+ [!code-fsharp[Classic WebData DataTable Example#1](~/samples/snippets/fsharp/VS_Snippets_ADO.NET/Classic WebData DataTable Example/fs/source.fs#1)]
   
  This sample demonstrates how to create a DataTable manually with specific schema definitions:  
   
@@ -99,6 +100,7 @@
   
  [!code-csharp[Classic WebData DataTable Example2#1](~/samples/snippets/csharp/VS_Snippets_ADO.NET/classic webdata datatable example2/cs/source.cs#1)]
  [!code-vb[Classic WebData DataTable Example2#1](~/samples/snippets/visualbasic/VS_Snippets_ADO.NET/classic webdata datatable example2/vb/source.vb#1)]  
+ [!code-fsharp[Classic WebData DataTable Example2#1](~/samples/snippets/fsharp/VS_Snippets_ADO.NET/classic webdata datatable example2/fs/source.fs#1)]
   
  ]]></format>
     </remarks>
@@ -148,6 +150,7 @@
   
  [!code-csharp[Classic WebData DataTable.DataTable Example#1](~/samples/snippets/csharp/VS_Snippets_ADO.NET/Classic WebData DataTable.DataTable Example/CS/source.cs#1)]
  [!code-vb[Classic WebData DataTable.DataTable Example#1](~/samples/snippets/visualbasic/VS_Snippets_ADO.NET/Classic WebData DataTable.DataTable Example/VB/source.vb#1)]  
+ [!code-fsharp[Classic WebData DataTable.DataTable Example#1](~/samples/snippets/fsharp/VS_Snippets_ADO.NET/Classic WebData DataTable.DataTable Example/fs/source.fs#1)]
   
  ]]></format>
         </remarks>
@@ -185,6 +188,7 @@
   
  [!code-csharp[Classic WebData DataTable.DataTable1 Example#1](~/samples/snippets/csharp/VS_Snippets_ADO.NET/Classic WebData DataTable.DataTable1 Example/CS/source.cs#1)]
  [!code-vb[Classic WebData DataTable.DataTable1 Example#1](~/samples/snippets/visualbasic/VS_Snippets_ADO.NET/Classic WebData DataTable.DataTable1 Example/VB/source.vb#1)]  
+ [!code-fsharp[Classic WebData DataTable.DataTable1 Example#1](~/samples/snippets/fsharp/VS_Snippets_ADO.NET/Classic WebData DataTable.DataTable1 Example/fs/source.fs#1)]
   
  ]]></format>
         </remarks>
